@@ -9,3 +9,4 @@ Mac App Store: https://apps.apple.com/app/id1507246666
 Setapp: https://go.setapp.com/stp285?refAppID=401&utm_content=button&utm_medium=vendor_program  
 YouTube Playlist: https://www.youtube.com/playlist?list=PLcxLhLDvsjnE2bpi-bN7E2-9EYaCSfk-U  
 FAQ: https://presentify.compzets.com/faq.html  
+Contribute to Localization: https://github.com/rampatra/presentify-localization
